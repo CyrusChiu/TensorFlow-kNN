@@ -28,4 +28,7 @@ tensorflow v1.4.0
 [[ 0.66666667  0.33333333]]
 ```
 
+### More
+http://cyruschiu.github.io/2017/12/01/knn-with-tensorflow/
+
 **Author:** *Cyrus Chiu*
